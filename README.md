@@ -10,7 +10,7 @@ While quality estimation (QE) can play an important role in the translation proc
 |:------:|:--------:|:-----:|:----:|
 |EN-DE   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-DE)|       |      |
 |EN-ZH   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-ZH)|       |      |
-|RO-EN   |          |       |      |
+|RO-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RO-EN)|       |      |
 |RU-EN   |          |       |      |
 
 ### (With) TAG
