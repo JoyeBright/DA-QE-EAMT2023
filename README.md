@@ -11,15 +11,15 @@ While quality estimation (QE) can play an important role in the translation proc
 |EN-DE   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-DE)|       |      |
 |EN-ZH   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-ZH)|       |      |
 |RO-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RO-EN)|       |      |
-|RU-EN   |          |       |      |
+|RU-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RU-EN)|       |      |
 
 ### (With) TAG
 |Model   | Baseline | DAG 1 | DAG 2|
 |:------:|:--------:|:-----:|:----:|
-|EN-DE   |          |       |      |
-|EN-ZH   |          |       |      |
-|RO-EN   |          |       |      |
-|RU-EN   |          |       |      |
+|EN-DE   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-DE)|       |      |
+|EN-ZH   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-ZH)|       |      |
+|RO-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RO-EN)|       |      |
+|RU-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RU-EN)|       |      |
 
 ## Cite the paper
 If you find this repository helpful, feel free to cite our publication:
