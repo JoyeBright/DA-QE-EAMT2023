@@ -11,7 +11,7 @@ To train the MT models in Approach 2 of the Data Augmentation, we used [LINK](ht
 ### NO TAG
 |Model   | Baseline | DAG 1 | DAG 2|
 |:------:|:--------:|:-----:|:----:|
-|EN-DE   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-DE)|[Download](https://huggingface.co/joyebright/EAMT2023-DAG1-NOTAG)|      |
+|EN-DE   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-DE)|[Download](https://huggingface.co/joyebright/EAMT2023-EN-DE-DAG1-NOTAG)|[Download](https://huggingface.co/joyebright/EAMT2023-EN-DE-DAG2-NOTAG/)|
 |EN-ZH   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-ZH)|       |      |
 |RO-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RO-EN)|       |      |
 |RU-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RU-EN)|       |      |
