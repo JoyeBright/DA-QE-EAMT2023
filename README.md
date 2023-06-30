@@ -21,7 +21,7 @@ To train the MT models in Approach 2 of the Data Augmentation, we used [LINK](ht
 |:------:|:--------:|:-----:|:----:|
 |EN-DE   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-DE)|[Download](https://huggingface.co/joyebright/EAMT2023-EN-DE-DAG1-WithTAG)|[Download](https://huggingface.co/joyebright/EAMT2023-EN-DE-DAG2-WithTAG)|
 |EN-ZH   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-EN-ZH)|[Download](https://huggingface.co/joyebright/EAMT2023-EN-ZH-DAG1-WithTAG/)||
-|RO-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RO-EN)|       |      |
+|RO-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RO-EN)|[Download](https://huggingface.co/joyebright/EAMT2023-EN-RO-DAG1-WithTAG)|      |
 |RU-EN   |[Download](https://huggingface.co/joyebright/EAMT2023-Baseline-RU-EN)|       |      |
 
 ## Cite the paper
